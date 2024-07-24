@@ -1,6 +1,6 @@
 ---
 title: "Four Parameters: Categorical"
-author: "Zephan S"
+author: "Zephan Shivam"
 format: html
 execute:
   echo: false
